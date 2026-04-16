@@ -102,6 +102,10 @@ Sistema Transacional (Schema: public) → Raw → Trusted → Analytics
 | valor_unit | Valor unitário |
 | valor_total | Valor total da venda |
 
+## 📚 Documentação Adicional
+
+- 📖 [Dicionário de Dados](docs/dicionario_de_dados_pipeline_previsao_vendas.pdf)
+
 ## 📁 Estrutura do Projeto
 
 ## 👤 Autor
