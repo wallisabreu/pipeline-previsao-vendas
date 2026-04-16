@@ -104,7 +104,7 @@ Sistema Transacional (Schema: public) → Raw → Trusted → Analytics
 
 ## 📚 Documentação Adicional
 
-- 📖 [Dicionário de Dados](docs/dicionario_de_dados_pipeline_previsao_vendas.pdf)
+- 📖 [Dicionário de Dados](docs/dicionario_dados_pipeline_previsao_vendas.pdf)
 
 ## 📁 Estrutura do Projeto
 
