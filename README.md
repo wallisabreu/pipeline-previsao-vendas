@@ -104,15 +104,18 @@ Sistema Transacional (Schema: public) → Raw → Trusted → Analytics
 
 ## 📁 Estrutura do Projeto
 
-👤 Autor
+## 👤 Autor
 
-Patrick Wallis Abreu Macedo
-Analista de TI | Estudante de Engenharia de Software
+**Patrick Wallis Abreu Macedo**  
+Analista de Banco de Dados | Estudante de Engenharia de Software  
 
-🔗 LinkedIn: https://www.linkedin.com/in/patrick-abreu-macedo-2087a1130/
+🔗 **LinkedIn:** https://www.linkedin.com/in/patrick-abreu-macedo-2087a1130/  
+🔗 **GitHub:** https://github.com/wallisabreu
 
-🔗 GitHub: https://github.com/wallisabreu
+---
 
-📄 Licença
+## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a **Licença MIT**.
+ 
+Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
